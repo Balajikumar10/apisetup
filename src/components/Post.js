@@ -60,7 +60,7 @@ function Post() {
                         <TableRow>
                             <TableCell></TableCell>
                             <TableCell align="center"></TableCell>
-                            <TableCell align="center">ID</TableCell>
+                            <TableCell align="center">Test_ID</TableCell>
                             <TableCell align="center"></TableCell>
                             <TableCell align="center"></TableCell>
                         </TableRow>
