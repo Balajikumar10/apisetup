@@ -38,7 +38,7 @@ function Comments() {
                         <Grid item xs={2} sm={4} md={4} key={index}>
                             <Item style={{ backgroundColor: "lightblue" }}> {comment.postId}
                                 <h3>USERID</h3> {comment.id}<br />
-                                <h3>TITLE</h3>  {comment.email}
+                                <h3>TITLED</h3>  {comment.email}
                                 <h3>BODY</h3> {comment.body}<br />
                             </Item>
                         </Grid>
